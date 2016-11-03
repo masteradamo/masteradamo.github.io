@@ -4,27 +4,17 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is my online portal.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This is the homepage for me (Stephen McGregor) to share some of my ideas and opinions online.  I hope to soon populate this space with interesting, witty, and topical reflections on issues in areas such as politics, linguistics, philosophy, and technology.  For the time being, I'm just familiarising myself with my own website.  I'm also a little preoccupied with my academic work at present (see below).
 
-There are currently two themes built on Poole:
+##About Me
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm currently in the final stetch of my PhD at Queen Mary, where I've been conducting research in the [Computational Creativity Lab](http://conceptcreationtechnology.eu/?q=about-qmul) and the [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/) as part of the [CogSci Group](http://cogsci.eecs.qmul.ac.uk/).  My academic work focuses on 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+For my academic home page, please go [here](http://www.eecs.qmul.ac.uk/people/view/35826/stephen-mcgregor).
 
-## Setup
+For a list of my academic publications, including, in most cases, links to pdfs, please go [here](https://www.researchgate.net/profile/Stephen_Mcgregor).
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I've also written a good bit of code in the course of my PhD research, as well, particularly relating to statistical semantic spaces and computer generated poetry.  Some day soon I'd like to sit down and get this code cleaned up enough to publicly distribute.  For the time being, I'm very happy to release my code to individuals upon request, as long as you understand that it's really a mess.
