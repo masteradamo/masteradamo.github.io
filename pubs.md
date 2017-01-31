@@ -4,9 +4,9 @@ title: Writing
 ---
 
 <p class="message">
-  Academic Publications
+  A list of some of my publications, with links to files in most cases.
 </p>
 
-##Publications
+##Academic Publications
 
-[Considering the Law as an Evaluative Mechanism for Computational Creativity](http://masteradamo.uk/_writing/SMcGregorCCLaw.pdf)
+[Considering the Law as an Evaluative Mechanism for Computational Creativity](http://{{ site.baseurl }}/writing/SMcGregorCCLaw.pdf)
