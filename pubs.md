@@ -9,4 +9,4 @@ title: Writing
 
 ##Academic Publications
 
-[Considering the Law as an Evaluative Mechanism for Computational Creativity](http://{{ site.baseurl }}writing/SMcGregorCCLaw.pdf)
+[Considering the Law as an Evaluative Mechanism for Computational Creativity]({{ site.baseurl }}writing/SMcGregorCCLaw.pdf)
