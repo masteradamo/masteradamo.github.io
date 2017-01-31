@@ -34,12 +34,12 @@ Stephen McGregor, Matthew Purver, and Geraint Wiggins
 8th AISB Symposium on Computing and Philosophy: The Significance of Metaphor and Other Figurative Modes of Expression and Thought
 April 2015
 
-[How Many Robots Does It Take?  Creativity, Robots and Multi-Agent Systems](({{ site.url }}writing/SMcGregorManyRobots.pdf)
+[How Many Robots Does It Take?  Creativity, Robots and Multi-Agent Systems]({{ site.url }}writing/SMcGregorManyRobots.pdf)
 Stephen McGregor, Mariano Mora McGinty, and Sascha Griffiths
 Second AISB Workshop on Computational Creativity
 April 2015
 
-[Computational Creativity: A Philosophical Approach, and and Approach to Philosophy](({{ site.url }}writing/SMcGregorCCPhilo.pdf)
+[Computational Creativity: A Philosophical Approach, and and Approach to Philosophy]({{ site.url }}writing/SMcGregorCCPhilo.pdf)
 Stephen McGregor, Matthew Purver, and Geraint Wiggins
 Fifth International Conference on Computational Creativity
 June 2014
