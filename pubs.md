@@ -20,7 +20,7 @@ Kat R. Agres, Stephen McGregor, Karolina Rataj, Matthew Purver, Geraint A. Wiggi
 *ESSLLI Workshop on Computational Creativity, Concept Invention, and General Intelligence*  
 August 2016
 
-[Words, Concepts, and the Geometry of Analogy]({{ site.url }}/writing/McGregorEA-WordsConceptsAngloy.pdf)  
+[Words, Concepts, and the Geometry of Analogy]({{ site.url }}/writing/McGregorEA-WordsConceptsAnalogy.pdf)  
 Stephen McGregor, Matthew Purver, and Geraint Wiggins  
 *Workshop on Semantic Spaces at the Intersection of NLP, Physics and Cognitive Science*  
 June 2016
