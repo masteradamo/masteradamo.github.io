@@ -58,7 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  background-image: {"{{ site.url }}/public/HoneySuckleTulip.jpg"};
+  background-image: {"{{ site.url }}/public/HoneysuckleTulip.jpg"};
 }
 @media (min-width: 48em) {
   .sidebar {
