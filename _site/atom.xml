@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mstrdm</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-04-18T17:09:21+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Stephen McGregor</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Stephen McGregor</title>
+   <link href="http://localhost:4000/2017/01/31/TemporaryHome/"/>
+   <updated>2017-01-31T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2017/01/31/TemporaryHome</id>
+   <content type="html">&lt;p&gt;This is, or is at least becoming, my website.  My plan is to eventually fill this space with my thoughts on a variety of topics, as well as links and portals to some of the things I’ve made.&lt;/p&gt;
+
+&lt;p&gt;For the time being I’m a bit preoccupied with completing my PhD, so the site remains a work in progress, but please stay tuned for updates starting in the Spring of 2017, if not sooner.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
