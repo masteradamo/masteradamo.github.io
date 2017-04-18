@@ -7,7 +7,7 @@ title: Writing
   A list of some of my publications, with links to files in most cases.
 </p>
 
-##Academic Publications
+### Academic Publications
 
 
 [Process Based Evaluation of Computer Generated Poetry]({{ site.url }}/writing/McGregorEA-ProcessBasedEvaluation.pdf)  

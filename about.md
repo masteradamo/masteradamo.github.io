@@ -9,7 +9,7 @@ title: About
 
 This is the homepage for me (Stephen McGregor) to share some of my ideas and opinions online.  I hope to soon populate this space with interesting, witty, and topical reflections on issues in areas such as politics, linguistics, philosophy, and technology.  For the time being, I'm just familiarising myself with my own website.  I'm also a little preoccupied with my academic work at present (see below).
 
-##About Me
+### About Me
 
 I'm currently in the final stetch of my PhD at Queen Mary, where I've been conducting research in the [Computational Creativity Lab](http://conceptcreationtechnology.eu/?q=about-qmul) and the [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/) as part of the [CogSci Group](http://cogsci.eecs.qmul.ac.uk/).  My academic work focuses on 
 
