@@ -7,7 +7,7 @@ title: About
   This is my online portal.
 </p>
 
-My name is Stephen McGregor, and this is my website.  I hope to soon begin populating this space with topical reflections on the various things that interest me, which means language, technology, philosophy, politics, and really almost anything else.  For the time being, I'm somewhat preoccupied with my academic work at present (see below).
+My name is Stephen McGregor, and this is my website.  I hope to soon begin populating this space with topical reflections on the various things that interest me, which means language, technology, philosophy, politics, and really almost anything else.  For the time being, I'm somewhat preoccupied with my academic work at (see below).
 
 ### About Me
 
