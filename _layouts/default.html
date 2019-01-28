@@ -28,93 +28,31 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-
-
 </head>
-
-
   <body>
-
     <div class="sidebar">
-  <div class="container sidebar">
-    <div class="sidebar-about">
-      <h1>
-        <a href="/">
-          Mstrdm
-        </a>
-      </h1>
-      <p class="lead">This is, or will be, my webpage.</p>
+      <div class="container sidebar">
+        <div class="sidebar-about">
+          <h1>
+            <a href="/">
+              Mstrdm
+            </a>
+          </h1>
+          <p class="lead">This is, or will be, my webpage.</p>
+        </div>
+
+        <nav class="sidebar-nav">
+          <a class="sidebar-nav-item active" href="/">Home</a>
+          <a class="sidebar-nav-item" href="/about/">About</a>
+          <a class="sidebar-nav-item" href="/pubs/">Writing</a>
+          <div class="sidebar-fottit">
+            <p><s>&copy;</s> This information is free.</p>
+          </div>
+      </div>
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item active" href="/">Home</a>
-
-      
-
-      
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/about/">About</a>
-          
-        
-      
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/pubs/">Writing</a>
-          
-        
-      
-
-      
-
-    <div class="sidebar-fottit">
-      <p><s>&copy;</s> This information is free.</p>
-    </div>
-  </div>
-</div>
-
 
     <div class="content container">
-      <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2017/01/31/TemporaryHome/">
-        Stephen McGregor
-      </a>
-    </h1>
-
-    <span class="post-date">31 Jan 2017</span>
-
-    <p>This is, or is at least becoming, my website.  My plan is to eventually fill this space with my thoughts on a variety of topics, as well as links and portals to some of the things I’ve made.</p>
-
-<p>For the time being I’m a bit preoccupied with completing my PhD, so the site remains a work in progress, but please stay tuned for updates starting in the Spring of 2017, if not sooner.</p>
-
-
-  </div>
-  
-</div>
-
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
-</div>
+      {{ content }}
     </div>
-
   </body>
 </html>
