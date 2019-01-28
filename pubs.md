@@ -10,6 +10,26 @@ title: Writing
 ### Academic Publications
 
 
+[A Distributional Semantic Methodology for Enhanced Search in Historical Records: A Case Study on Smell]({{ site.url }}/writing/McGregorEA-DetectingImpliedSmell.pdf)  
+Stephen McGregor and Barbara McGillivray  
+*KONVENS: The Conference on Natural Language Processing*  
+September 2018
+
+[Affordances in Grounded Language Learning]({{ site.url }}/writing/McGregorEA-AffordancesInGroundedLanguageLearning.pdf)  
+Stephen McGregor and KyungTae Lim  
+*ACL Workshop on Cognitive Aspects of Computational Language Learning and Processing*  
+July 2018
+
+[Geometric Methods in Context Sensitive Distributional Semantics]({{ site.url }}/writing/SMcGregorGeometricMethodsFinal.pdf)  
+Stephen McGregor  
+*PhD Thesis*  
+February 2018
+
+[A Geometric Method for Detecting Semantic Coercion]({{ site.url }}/writing/McGregorEA-DetectingSemanticCoercion.pdf)  
+Stephen McGregor, Elisabetta Jezek, Matthew Purver, and Geraint Wiggins  
+*Internation Workshop on Computational Semantics*  
+September 2017
+
 [Process Based Evaluation of Computer Generated Poetry]({{ site.url }}/writing/McGregorEA-ProcessBasedEvaluation.pdf)  
 Stephen McGregor, Matthew Purver, and Geraint Wiggins  
 *INLG Workshop on Computational Creativity in Natural Language Generation*  
